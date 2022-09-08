@@ -1,0 +1,42 @@
+body{
+    width:800px ;
+     margin:0 auto ;
+     background-color:#d8cfc3 ;
+     padding: 20px 20px 20px;
+     border: 5px solid black;
+    
+}
+
+
+h1{ 
+    font-family:Arial black ;
+    font-size: 30px;
+    background-color:white ;
+    width: 760px;
+    padding: 20px 20px 20px;
+    text-align: center;
+    border: 2px outset rgb(41,41,71);
+    text-decoration: underline;
+
+}
+
+
+h2{
+    font-family:Arial black ;
+    font-size: 30px;
+    background-color: white;
+    width: 760px;
+    padding: 20px 20px 20px;
+    text-align: center;
+    border: 4px outset rgb(41,41,71);
+    text-decoration:underline;
+}
+
+p{
+
+    margin: 1px;
+ padding: 2px 0;
+ color: rgb(5, 7, 14);
+ text-shadow: 5px 5px 10px black;
+ font-family: 'Times New Roman';
+ text-decoration: underline;
