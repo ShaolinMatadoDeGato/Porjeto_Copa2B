@@ -1,0 +1,45 @@
+html, body{
+    margin: 0px ;
+    padding: 0px ;
+}
+
+header{
+background-color: gray;
+padding: 8px ;
+display: flex ;
+justify-content: space-between ;
+align-items: center ; 
+font-family: Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+
+
+h1{ 
+    font-family:Arial black;
+    font-size: 30px;
+    width: 760px;
+    padding: 20px 20px 20px;
+    text-align: center;
+    border: 4px outset rgb(41,41,71);
+}
+
+h2{
+    font-family:Arial black ;
+    font-size: 30px;
+    width: 760px;
+    padding: 20px 20px 20px;
+    text-align: center;
+    border: 4px outset rgb(41,41,71);
+    text-decoration:line-through;
+}
+
+p{
+
+    margin: 1px;
+ padding: 2px 0;
+ color: rgb(5, 7, 14);
+ text-shadow: 5px 5px 10px black;
+ font-family: 'Times New Roman';
+ text-decoration: overline;
+
+}
